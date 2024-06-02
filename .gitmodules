@@ -1,0 +1,9 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Adetona-Adegbite/GHS-Resouce-Hub-Mobile.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Adetona-Adegbite/GHC-Resource-Hub-Backend.git
+[submodule "web"]
+	path = web
+	url = https://github.com/Adetona-Adegbite/GHS-Resources-Web.git
